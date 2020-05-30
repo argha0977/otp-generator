@@ -1,0 +1,30 @@
+{
+  "name": "@argha0277/otp-generator",
+  "version": "1.0.2",
+  "description": "OTP Generator with specified seed & specified digits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/argha0977/otp-generator"
+  },
+  "author": "Argha Dey Sarkar",
+  "license": "MIT",
+  "dependencies": {
+    "fiona": "^3.4.1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "random",
+    "pseudorandom",
+    "otp",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/argha0977/otp-generator/issues"
+  },
+  "homepage": "https://github.com/argha0977/otp-generator#readme"
+}
